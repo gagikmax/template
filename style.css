@@ -84,6 +84,8 @@ html{
     position: relative;
     top: -40px;
     left: 1%;
+    max-width: 1180px;
+    margin: 0 auto;
 }
 .img{
     background: url("https://livedemo00.template-help.com/wt_51647/images/cta-1-368x420.jpg");
