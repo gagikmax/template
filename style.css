@@ -628,14 +628,6 @@ html{
     margin-top: 25px;
     width: 70%;
 }
-.top1{
-    padding: 10px;
-    position: fixed;
-    top: 10vh;
-    left: 96.1%;
-    background: #01b3a7;
-    color: white;
-}
 .a1{
     color: white;
 }
@@ -962,9 +954,6 @@ a{
     }
     .co2kjl{
         width: 60%;
-    }
-    .top1{
-        display: none;
     }
     .p2{
         margin-left: 0px;
