@@ -83,7 +83,7 @@ html{
     justify-content: center;
     position: relative;
     top: -40px;
-    left: 0px;
+    left: 1%;
 }
 .img{
     background: url("https://livedemo00.template-help.com/wt_51647/images/cta-1-368x420.jpg");
@@ -439,7 +439,7 @@ html{
 }
 .pp1{
     color: #01b3a7;
-    margin-left: 34px;
+    margin: 0 auto;
 }
 .ppp3{
     color: #01b3a7;
@@ -629,10 +629,10 @@ html{
     width: 70%;
 }
 .top1{
-    padding: 14px;
+    padding: 10px;
     position: fixed;
-    top: 83vh;
-    left: 95%;
+    top: 10vh;
+    left: 96.1%;
     background: #01b3a7;
     color: white;
 }
@@ -701,10 +701,11 @@ a{
     .d1{display: none;}
     .img2{
         display: block;
-        padding-top: 30px;
+        position: static;
+       
     }
     .img{
-        margin-left: 60px;
+        margin: 0 auto;
         margin-bottom: 30px;
         
         position: relative;
@@ -712,13 +713,13 @@ a{
         top: 0px;
     }
     .img3{
-        margin-left: 60px;
+        margin: 0 auto;
         margin-bottom: 30px;
         position: relative;
         left: 0px;
         top: 0px;
     }
-    .img4{margin-left: 60px;
+    .img4{margin: 0 auto;
         margin-bottom: 30px;
         position: relative;
         left: 0px;
@@ -731,12 +732,12 @@ a{
     .hh1{
         font-size: 15px;
         text-align: center;
-        margin-left: 60px;    
+        margin: 0 auto;   
     }
     .col{
         display: block;
-        margin-left: 90px;
-        
+        margin: 0 auto;
+        width: 80%;
     }
     .cokfd{
         display: flex;
@@ -750,10 +751,11 @@ a{
         display: none;
     }
     .col1{
-        margin-top: 5px;
+        margin-top: 5px; 
     }
     .col2{
         margin-top: 5px;
+        width: 70%;
     }
     .co2kjm{
         background: #bdbdbd;
@@ -765,10 +767,13 @@ a{
         margin-top: 10px;
     }
     .p1{
-        margin-left: 40px;
+        margin: 0 auto;
+        width: 90%;
+        text-align: center;
     }
     .Get{
-        margin-left: 50px;
+        margin: 0 auto;
+        width: 90%;
     }
     .m2{
         padding: 0px;
@@ -779,6 +784,9 @@ a{
     .mm1{
          margin-left: 10px;
          margin-bottom: 20px;
+    }
+    .m1{
+        margin-right: 0px;
     }
     .f1{
         display: block;
@@ -804,9 +812,7 @@ a{
         padding: 10px 0px;
     }
     .erankyun{
-        left: 365px;
-        top: -315px;
-        border-bottom: 30px solid rgba(255, 255, 255, 0.269);
+        display: none;
     }
     .a3{
         width: 350px;
@@ -832,14 +838,18 @@ a{
         display: block;
     }
     .col4{
-        margin-left: 90px;
+        margin: 0 auto;
+        margin-top: 100px;
         text-align: center;
         width: 60%;
+        padding: 0px 0px 30px 0px;
     }
     .col5{
-        margin-left: 90px;
+        margin: 0 auto;
+        margin-top: 130px;
         text-align: center;
         width: 60%;
+        padding: 0px 0px 30px 0px;
     }
     .mayr1{
         display: block;
@@ -870,23 +880,20 @@ a{
     .gg{
         padding: 10px;
     }
-    .top1{
-        left: 87%;
-    }
     .m4{
         display: block;
     }
     .ll1{
-        margin-left: 110px;
-        margin-top: 10px;
+        margin: 0 auto;
         width: 50%;
     }
     .ll{
         width: 50%;
-        margin-left: 110px;
+        margin: 0 auto;
     }
     .kli{
         margin-left: 20px;
+        margin-top: 10px;
     }
     .name1{
         display: block;
@@ -903,7 +910,8 @@ a{
         margin-right: 10px;
     }
     .ll2{
-        margin-left: 60px;
+        margin: 0 auto;
+        width: 80%;
     }
     .mlk1{
         margin-left: 80px;
@@ -912,11 +920,16 @@ a{
         display: flex;
     }
     .g6{
-        margin-top: 30px;
+        margin: 10px auto;
+        width: 40%;
     }
     .sev1{
         display: block;
         padding: 30px 10px;
+    }
+    .g5{
+        margin: 10px auto;
+        width: 25%;
     }
     .d2d2{
         display: none;
@@ -935,5 +948,40 @@ a{
     .d3d3{
         margin-left: 70px;
         margin-top: 20px;
+    }
+    .i1{
+        width: 100%;
+    }
+    .gg1{
+        width: 45%;
+    }
+    .add{
+        margin: 0 auto;
+    }
+    .co2kjl{
+        width: 60%;
+    }
+    .top1{
+        display: none;
+    }
+    .p2{
+        margin-left: 0px;
+        margin: 0 auto;
+        width: 90%;
+    }
+    .kanac2{
+        margin: 0 auto;
+    }
+    .pp3{
+        margin-top: 0px;
+    }
+    .pp2{
+        margin-top: 10px;
+    }
+    .spitak{
+        padding-top: 20px;
+    }
+    .img1{
+        padding: 25vh 0vh;
     }
 }
